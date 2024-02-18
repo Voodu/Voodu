@@ -20,25 +20,25 @@ I've written my first line of code in secondary school, but I'm still at the beg
 I tried multiple languages, frameworks etc., but for now my favorites are:
 
 <div align="center">
-  Frontend
+  <div>Frontend</div>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,angular,js,ts,html,css" />
   </a>
 
-  Backend
+  <div>Backend</div>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=net,cs" />
   </a>
 
-  Other tools
+  <div>Other tools</div>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,unity,github,vscode" />
   </a>
 </div>
-I'm also a big fan of coding with GitHub Copilot, but I there was no cool icon for it 🙃
+I'm also a big fan of coding with GitHub Copilot, but there was no cool icon for it 🙃
 
 So, yeah, I like Microsoft stuff and frontend, but I'm aiming to move a bit more into fullstack direction 🙂
 
